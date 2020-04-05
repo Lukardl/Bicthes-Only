@@ -1,0 +1,2 @@
+# Bicthes-Only
+Server Discord
